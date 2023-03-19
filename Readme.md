@@ -1,14 +1,9 @@
-**Учебный проект Яндекс практикума Stellar-Burgers on React**
-
-## Вёрстка без наличия адаптива, с функционалом открытия/закрытия модальных окон.
-## Данные приходят с сервера.
+**Учебный проект Яндекс практикума Stellar-Burgers**
 
 ### Использованные технологии
 * HTML
 * CSS
-* React (Функциональный подход)
-* JSX
-* CRA
+* React
 * Библиотека готовых компонентов: "npm i @ya.praktikum/react-developer-burger-ui-components"
 * Api
 # YP_Stellar-burger
